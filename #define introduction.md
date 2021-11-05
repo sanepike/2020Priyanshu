@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Priyanshu
+- 👀 I’m interested in Data Science, Artificial Intelligence and Blockchain
+- 🌱 I’m currently learning Python for Data Science
+- 📫 Reach me at priyanshuofficial06@gmail.com
